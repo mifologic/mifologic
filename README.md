@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm QA & QA Automation.   
+
+- 📫 How to reach me:
+https://www.linkedin.com/in/mariana-plotnikova-32b55847/
+
 <!--
 **mifologic/mifologic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=mifologic&show_icons=true&theme=merko)
