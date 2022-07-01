@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm QA & QA Automation.   
+I'm QA & QA Automation Engineer.   
 
 - 📫 How to reach me:
 https://www.linkedin.com/in/mariana-plotnikova-32b55847/
