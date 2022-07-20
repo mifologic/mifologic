@@ -1,8 +1,27 @@
 ### Hi there 👋
 
-I'm QA & QA Automation Engineer.   
+I'm QA & QA Automation Engineer. 
 
-- 📫 How to reach me:
+For UI-tests I like to use:
+- Java;
+- Selenide;
+- JUnit5;
+- Gradle;
+- Allure. 
+
+Can also work with Kotlin, Maven, TestNG.
+
+For API-test I like to use:
+- Python;
+- pytest;
+- requests;
+- Cerberus;
+- assertpy.
+
+Can also work with Java + RestAssured.
+
+
+📫 How to reach me:
 https://www.linkedin.com/in/mariana-plotnikova-32b55847/
 
 <!--
