@@ -25,6 +25,21 @@ For API-test I like to use:
 
 For API automation I can also write tests with Java + RestAssured.
 
+## My Projects
+
+### UI-tests automation example
+
+Tests for site  of sport shop <a href="https://www.sportmaster.ru/">sportmaster.ru</a>.
+Project was made during studying in test automation school <a href="https://qa.guru">QA.Guru</a>.
+
+:arrow_right: [go to project](https://github.com/mifologic/qa-guru-ui-tests)
+
+### API-tests automation example
+
+Demo tests for site <a href="https://reqres.in">reqres.in</a>.
+Project was made during studying in test automation school <a href="https://qa.guru">QA.Guru</a>.
+
+:arrow_right: [go to project](https://github.com/mifologic/qa-guru-api-tests)
 
 📫 How to reach me:
 https://www.linkedin.com/in/mariana-plotnikova-32b55847/
