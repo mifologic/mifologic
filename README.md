@@ -41,8 +41,8 @@ Project was made during studying in test automation school <a href="https://qa.g
 
 :arrow_right: [go to project](https://github.com/mifologic/qa-guru-api-tests)
 
-📫 How to reach me:
-https://www.linkedin.com/in/mariana-plotnikova-32b55847/
+
+## 📫 How to reach me: [my LinkedIn](https://www.linkedin.com/in/mariana-plotnikova-32b55847/)
 
 <!--
 **mifologic/mifologic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
