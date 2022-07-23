@@ -25,7 +25,7 @@ For API-test I like to use:
 
 For API automation I can also write tests with Java + RestAssured.
 
-## My Projects
+## :seedling: My Projects
 
 ### UI-tests automation example
 
