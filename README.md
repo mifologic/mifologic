@@ -23,7 +23,7 @@ For API-test I like to use:
 <img width="6%" src="Requests.png">
 </p>
 
-For API automation I can also write tests with Java + RestAssured.
+For API I can also write tests with Java + RestAssured.
 
 ## :seedling: My Projects
 
