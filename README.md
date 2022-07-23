@@ -4,24 +4,26 @@ I'm QA & QA Automation Engineer.
 
 For UI-tests I like to use:
 
-<p align="center">
+<p align="left">
 <img width="6%" src="Java.svg">
 <img width="6%" src="Gradle.svg">
 <img width="6%" src="JUnit5.svg">
+<img width="6%" src="Jenkins.svg">
 <img width="6%" src="Selenide.svg">
 <img width="6%" src="Allure_Report.svg">
 </p>
 
-Can also work with Kotlin, Maven, TestNG. For CI/CD I use Jenkins.
+I can also work with Kotlin, Maven, TestNG.
 
 For API-test I like to use:
-- Python;
-- pytest;
-- requests;
-- Cerberus;
-- assertpy.
 
-Can also work with Java + RestAssured.
+<p align="left">
+<img width="6%" src="Python.png">
+<img width="6%" src="Pytest.png">
+<img width="6%" src="Requests.png">
+</p>
+
+For API automation I can also write tests with Java + RestAssured.
 
 
 📫 How to reach me:
